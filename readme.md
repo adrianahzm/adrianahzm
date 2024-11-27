@@ -30,7 +30,7 @@ Bienvenid@ a mi perfil de GitHub. Soy **Frontend Developer** 🚀 especializada 
 
 ### 💻 Mis Estadísticas y 📊 Lenguajes más usados
 
-| ![Adriana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianahzm&show_icons=true&theme=radical&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianahzm&layout=compact&theme=radical) |
+| ![Adriana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianahzm&show_icons=true&theme=tokyonight&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianahzm&layout=compact&theme=tokyonight) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
