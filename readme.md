@@ -35,7 +35,9 @@ Bienvenid@ a mi perfil de GitHub. Soy **Frontend Developer** 🚀 especializada 
 
 
 ## 💌 ¡Conectemos!  
-- 💼 **LinkedIn:** [Adriana Guzmán](https://www.linkedin.com/in/adrianagzm)  
+- 💼 **LinkedIn:** [Adriana Guzmán](https://www.linkedin.com/in/adrianagzm)
+- 📧 **Correo electrónico:** [adriianaguzman8@gmail.com](mailto:adriianaguzman8@gmail.com)
+
 
 ✨ _"El diseño no es solo cómo se ve, sino cómo funciona."_ - Steve Jobs
 
